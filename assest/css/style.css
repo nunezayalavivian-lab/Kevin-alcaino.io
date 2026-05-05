@@ -115,8 +115,8 @@ aside{
 /* Estilizamos los recuadros (inputs y textarea) */
 .custom-input {
   border: 2px solid #e9ecef 
-  padding: 1.2rem 
-  font-size: 1.1rem 
+  padding: 1.2rem; 
+  font-size: 1.1rem; 
   transition: all 0.3s ease;
 }
 
@@ -141,8 +141,8 @@ aside{
 }
 
 /* Footer */
-footer {
-    background-color: #212529; /* El mismo gris oscuro de Bootstrap */
+.footer {
+    background-color: #808000; !important;/* El mismo gris oscuro de Bootstrap */
     color: #ffffff;
     text-align: center;
     padding: 30px 0;
